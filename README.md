@@ -40,7 +40,7 @@ I enjoy building practical software with **Java** and **Python** while exploring
 
 ##  Featured Projects
 
-### 📄 [Financial Document Tool](https://github.com/geethika-sandireddy/financial-doc-tool)
+###  [Financial Document Tool](https://github.com/geethika-sandireddy/financial-doc-tool)
 
 AI-powered Flask application for financial document intelligence.
 
