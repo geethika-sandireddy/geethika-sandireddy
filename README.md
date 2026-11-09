@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_KOI_URL" width="360" alt="Koi">
+<img src="koi/koi.gif" width="320" alt="My koi">
 
 <h1>Hi, I'm Geethika</h1>
 
@@ -45,4 +45,4 @@ I'm looking for **AI/ML engineering internships** where I can build real things 
 
 ### Currently
 
-Building in public and shipping small, tested pieces. Best place to see my work is the pinned repos above.
+Building in public and shipping small, tested pieces. The best place to see my work is the pinned repos above.
