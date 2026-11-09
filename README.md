@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="koi/koi.gif" width="320" alt="My koi">
-
 <h1>Hi, I'm Geethika</h1>
 
 <p><b>CS undergraduate building AI/ML tooling and secure systems</b></p>
@@ -46,3 +44,11 @@ I'm looking for **AI/ML engineering internships** where I can build real things 
 ### Currently
 
 Building in public and shipping small, tested pieces. The best place to see my work is the pinned repos above.
+
+<div align="center">
+
+<img src="koi/koi.gif" width="240" alt="My koi, redrawn every night from my GitHub activity">
+
+<sub>This koi is drawn fresh every night from my GitHub activity.</sub>
+
+</div>
